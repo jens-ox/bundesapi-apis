@@ -28,6 +28,12 @@
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
   },
   {
+    "name": "Arbeitsagentur Bewerberbörse API",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit ",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api"
+  },
+  {
     "name": "Bundeshaushalt API",
     "office": "Bundesministerium der Finanzen",
     "description": "API Beschreibung von Bundeshaushalt Digital",
@@ -52,7 +58,7 @@
     "name": "Bundestag: Lobbyregister API",
     "office": "Deutscher Bundestag",
     "description": "API des Deutschen Bundestags zum Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung.",
-    "documentationURL": null,
+    "documentationURL": "https://bundestag.lobbyregister.api.bund.dev/",
     "githubURL": "https://github.com/bundesAPI/bundestag-lobbyregister-api"
   },
   {
@@ -70,11 +76,23 @@
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
   },
   {
+    "name": "Deutsche Digitale Bibliothek REST API",
+    "description": "Deutsche Digitale Bibliothek REST API",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/ddb-api"
+  },
+  {
     "name": "Destatis-API",
     "office": "Statistisches Bundesamt",
     "description": "Statistische Daten des DESTATIS via restful API abrufen.",
     "documentationURL": "https://destatis.api.bund.dev/",
     "githubURL": "https://github.com/bundesAPI/destatis-api"
+  },
+  {
+    "name": "Deutschlandatlas-API",
+    "description": "API zum Deutschlandatalas",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/deutschlandatlas-api"
   },
   {
     "name": "DiGA API",
@@ -114,7 +132,7 @@
     "name": "Feiertage API",
     "office": "Wikipedia",
     "description": "Zugriff auf den Feiertage Webservice https://feiertage-api.de/.",
-    "documentationURL": null,
+    "documentationURL": "http://feiertage.api.bund.dev/",
     "githubURL": "https://github.com/bundesAPI/feiertage-api"
   },
   {
@@ -168,8 +186,8 @@
   },
   {
     "name": "Marktdatenstammregister API",
-    "description": null,
-    "documentationURL": null,
+    "description": "Dokumentation der APIs des Marktstammdatenregisters.",
+    "documentationURL": "https://marktstammdaten.api.bund.dev/",
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api"
   },
   {
@@ -185,15 +203,16 @@
     "githubURL": "https://github.com/bundesAPI/nina-api"
   },
   {
-    "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "description": null,
-    "documentationURL": null,
+    "name": "Pegel-Online API",
+    "office": "Wasserstraßen- und Schifffahrtsverwaltung",
+    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
+    "documentationURL": "",
     "githubURL": "https://github.com/bundesAPI/pegel-online-api"
   },
   {
     "name": "ORDS generated API for api-v1",
     "description": null,
-    "documentationURL": null,
+    "documentationURL": "https://pflanzenschutzmittelzulassung.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/pflanzenschutzmittelzulassung-api"
   },
   {
@@ -201,6 +220,19 @@
     "description": "API der Mobile APP der Polizei Brandenburg",
     "documentationURL": "https://polizei.brandenburg.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api"
+  },
+  {
+    "name": "Regionalatlas-API",
+    "description": "API zum Regionalatlas Deutschland der statistischen Ämter des Bundes und der Länder.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/regionalatlas-api"
+  },
+  {
+    "name": "Rigoletto API",
+    "office": "Umweltbundesamt",
+    "description": "rigoletto app api",
+    "documentationURL": "https://rigoletto.uba.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/rigoletto-api"
   },
   {
     "name": "Robert Koch Institut: Corona Risikogebiete API",
@@ -229,7 +261,7 @@
   {
     "name": "Tagesschau API",
     "description": "Dokumentation zur API der Tagesschau",
-    "documentationURL": "",
+    "documentationURL": "https://tagesschau.api.bund.dev/",
     "githubURL": "https://github.com/bundesAPI/tagesschau-api"
   },
   {
@@ -247,7 +279,7 @@
   {
     "name": "Arbeitsagentur Weiterbildungssuche API",
     "description": "API zur Weiterbildungssuche der Bundesagentur für Arbeit",
-    "documentationURL": null,
+    "documentationURL": "https://weiterbildungssuche.api.bund.dev/",
     "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api"
   },
   {
